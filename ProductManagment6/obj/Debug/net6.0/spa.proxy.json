@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44464",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\DevProjects\\GitRemote\\ProductManagement6\\master\\ProductManagment6\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

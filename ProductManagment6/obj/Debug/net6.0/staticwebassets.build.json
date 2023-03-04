@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "QkEKocsffo5WuwtOqhXNTUrqFUr2urjdlhbyyZKCYkQ=",
+  "Source": "ProductManagmentClient",
+  "BasePath": "_content/ProductManagmentClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\DevProjects\\GitRemote\\ProductManagement6\\master\\ProductManagementApi\\ProductManagementApi.csproj",
+      "Version": 2,
+      "Source": "ProductManagementApi",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
